@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8 - Coleman Pagac
 #Version 2
+#Comment 3 :)
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
